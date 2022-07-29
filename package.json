@@ -1,0 +1,14 @@
+{
+  "name": "test-api",
+  "version": "0.0.0",
+  "description": "test api for develope react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
